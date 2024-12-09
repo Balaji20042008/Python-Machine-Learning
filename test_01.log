@@ -1,0 +1,33 @@
+INFO:root:This is a info message.
+WARNING:root:This is a warning message.
+ERROR:root:This is a error message.
+CRITICAL:root:This is a critical message.
+INFO:root:This is a info message.
+WARNING:root:This is a warning message.
+ERROR:root:This is a error message.
+CRITICAL:root:This is a critical message.
+INFO:root:i = 0
+INFO:root:list_01[0] is of integer data type.
+INFO:root:appending list_01[0] = 12 into list_int
+INFO:root:i = 1
+INFO:root:list_01[1] is of integer data type.
+INFO:root:appending list_01[1] = 24 into list_int
+INFO:root:i = 2
+INFO:root:list_01[2] is of integer data type.
+INFO:root:appending list_01[2] = 36 into list_int
+INFO:root:i = 3
+INFO:root:list_01[3] is of integer data type.
+INFO:root:appending list_01[3] = 48 into list_int
+INFO:root:i = 4
+INFO:root:list_01[4] is of integer data type.
+INFO:root:appending list_01[4] = 60 into list_int
+INFO:root:i = 5
+INFO:root:list_01[5] is of string data type.
+INFO:root:appending list_01[5] = Balaji into list_str
+INFO:root:i = 6
+INFO:root:list_01[6] is of string data type.
+INFO:root:appending list_01[6] = Srinivas into list_str
+INFO:root:i = 7
+INFO:root:list_01[7] is of string data type.
+INFO:root:appending list_01[7] = Rahul into list_str
+INFO:root:The code is executed successfully.
